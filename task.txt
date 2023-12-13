@@ -1,0 +1,22 @@
+Offer part
+    API
+        search shop with one offer title
+        search with location + keyword(shop name)
+        search with location + category
+
+    Dashboard
+        Genrate notification when any offer created
+        Approve if an offer is added
+        Edit offer details (Title, Description)
+ 
+Seller
+    Genrate notification when seller is apply to register
+
+Admin
+    Admin forgot password
+    Seller add/Update/Delete
+QR code 
+    
+ 
+
+ 
